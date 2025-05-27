@@ -1,6 +1,13 @@
 # Pac-Man
 Pac-Man videogame developed with UE5 as exercise.
 
+## How-to-play:
+- Left arrow: Left
+- Right arrow: Right
+- Upper arrow: Up
+- Lower arrow: Down
+- Keyboard "P": Pause
+
 ## Main Features
 The goal of the project is to recreate the Pac-Man video game using Unreal Engine. The following list define all the requirements the product must meet to be considered completed:
 Pac-Man is game where a playable character (i.e. Pac-Man) can move around a maze to collect all dots along all paths.
